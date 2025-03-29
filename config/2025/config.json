@@ -215,7 +215,7 @@
                     "title": "Algae Pickup Location",
                     "type": "select",
                     "required": false,
-                    "code": "TGPL",
+                    "code": "TAPL",
                     "formResetBehavior": "reset",
                     "defaultValue": "",
                     "choices": {
